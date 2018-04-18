@@ -12,9 +12,9 @@ Switch your wireless network adapter to "monitor" mode, install this IPK, and ta
 
 When you get the IPK, make sure your Openwrt Router firmware has pcap & pthread installed.(Using muti-thread & pcap)
 
-The data it sends is a json. Have fun.
+The data it sends is a json-form. Have fun.
 
 About more details, please read my CSDN.
 http://blog.csdn.net/sunhaobo1996/
 
-PS:Using libpcap to open an active Network interface, so you need to download libpcap and install it on your computer, or you will meet some .h header missing problems.Their website: http://www.tcpdump.org/#latest-releases
+PS:Using libpcap to open an active Network interface, so you need to download libpcap and install it on your computer, or you will meet some .h header missing problems.[Their website] (http://www.tcpdump.org/#latest-releases)
