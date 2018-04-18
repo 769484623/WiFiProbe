@@ -1,4 +1,7 @@
 # WiFiProbe
+April 18th，2018 Added
+If you meet the lib-missing problem, please install libpcap first on your computer, and then re-make the ipk.
+——————————————————————————————————————————————
 Openwrt WiFi Probe, with http post to send data to server.
 You need to have a OpenwrtSDK to compile the source code. When it is done, you will get a IPK like "Scannerxxxxx.ipk".
 Switch your wireless network adapter to "monitor" mode, install this IPK, and tape Scanner in the shell. Then the node is sending data to your server.
