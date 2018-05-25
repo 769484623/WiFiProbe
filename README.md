@@ -1,7 +1,7 @@
 # WiFiProbe
 ## May 25th, 2018 Added ##
 
-Depends Missing Problem Sovled. Thanks for Tianyi.
+Depends Missing Problem Sovled. Thanks for figoym(sorry for not understanding you at once) and Tianyi.
 
 ## Introdution
 Openwrt WiFi Probe, with http post to send data to server.
