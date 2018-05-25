@@ -11,7 +11,7 @@ define Package/$(PKG_NAME)
 	SECTION:=utils
 	CATEGORY:=Utilities
 	TITLE:=Scaner
-	Depends:=+libpcap +libpthread
+	DEPENDS:=+libpcap +libpthread
 	MAINTAINER:=LNStar
 endef
 
